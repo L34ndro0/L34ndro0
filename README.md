@@ -9,23 +9,15 @@
 ## ***¿Quien soy?***  
   
 
-Soy un programador Fullstack recibido del Bootcamp soy Henry donde me siento apto en front como back end. 
-Además estoy cursando la carrera universitaria en inteligencia artificial desde principios del 2022.  
-  
+Actualmente, estoy desarrollando aplicaciones móviles con React Native y Expo para Android, escalables a iOS, para clientes en Argentina, Panamá y España. También creo páginas web con React, principalmente dashboards que integran sinergias con las aplicaciones móviles. Además, realizo tareas de backend con Node.js y MongoDB, adaptando y ampliando funcionalidades según sea necesario. Una de mis aplicaciones está en producción y las otras están en beta cerrada, todas disponibles en la Play Store de Android.
 
-## ***¿Que hago?***  
-  
+Mi formación incluye dos años de estudios en la carrera de Analista de Sistemas en una institución privada. Actualmente, estoy cursando una tecnicatura en Inteligencia Artificial en la Universidad Nacional de Rosario. Poseo un nivel de inglés intermedio (B1) según el test de EF SET.
 
-Actualmente me dedico a realizar proyectos que me permitan desarrollar todo mi potencial como programador, poniendo desafíos personales y resolviendo problemas.
-Además de proyectos web, tengo un proyecto en Arduino donde controlo y automatizo un invernadero hidropónico. Y un proyecto con Python para promover materias de la universidad.
-  
-  
+He adquirido habilidades blandas a través de mi experiencia laboral en gastronomía, donde desempeñé roles como responsable de turno, encargado de salón y de caja durante 12 años.
 
-## ***¿Qué tecnologías uso?***  
-  
+Además, tengo un proyecto personal con Arduino, en el cual controlo, monitoreo y automatizo un invernadero hidropónico.
 
-En bootcamp Henry, además de las tecnologías de desarrollo web, nos capacitaron para trabajar en equipo bajo la metodología agiles, con el framework scrum. 
-Además tengo practica programando en Python y Arduino IDE.  
+Estoy disponible para contacto a través de mi correo: leandropuntomp3@gmail.com
   
 
 <br/>  
@@ -64,15 +56,7 @@ Además tengo practica programando en Python y Arduino IDE.
 </td></tr></table>  
 
 <br/>  
-## Mis principales repos.
-<br/>  
-<br/>  
-[fusionaJobs](https://github.com/felipecalderon/PF-SoyHenry)
-<br/> 
-<br/>  
-[Pokemon API](https://github.com/L34ndro0/PI_Pokemon)
 
-<br/>  
 
 ## Conecta conmigo  
 <div align="center">
